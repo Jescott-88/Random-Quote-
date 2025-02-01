@@ -1,4 +1,4 @@
-const Quotes [
+const Quotes = [
   {
     "quote": "Be yourself; everyone else is already taken.",
     "author": "Oscar Wilde",
